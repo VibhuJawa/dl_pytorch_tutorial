@@ -8,9 +8,9 @@ This repo explores basic pytorch deep models Linear/CNN/FCC on basic doodle clas
 
 * [Data Exploration](introduction-to-data.ipynb)	
 
-* [Logistic Regression for Apple Detection](logistic_regression-for-apple detection.ipynb)
+* [Logistic Regression for Apple Detection](logistic_regression-for-apple-detection.ipynb)
 
-* [Perceptron for Apple Detection](perceptron-for-apple detection.ipynb)
+* [Perceptron for Apple Detection](perceptron-for-apple-detection.ipynb)
 
 * [Basic NN for apple detection](neural-network-for-apple-detection-kaggle.ipynb)
 
