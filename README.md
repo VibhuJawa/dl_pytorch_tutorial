@@ -12,7 +12,7 @@ This repo explores basic pytorch deep models Linear/CNN/FCC on basic doodle clas
 
 * [Perceptron for Apple Detection](perceptron-for-apple detection.ipynb)
 
-* [Basic NN for apple detection](neural-network-for-apple-detection-kaggle.ipynb	)
+* [Basic NN for apple detection](neural-network-for-apple-detection-kaggle.ipynb)
 
 * [Simple Convolutional NN](simple-conv-nn.ipynb)
 
