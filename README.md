@@ -1,24 +1,27 @@
 # Deep Learning Pytorch Experiments
 
+This repo explores basic pytorch deep models Linear/CNN/FCC on basic doodle classification tasks.
 
-## Introduction to PyTorch
+* [Introduction to PyTorch](introduction-to-pytorch.ipynb	)
 
-## Perceptron for Apple Detection
+* [Pytroch Ttutorial Example] (pytorch-with-examples.ipynb)
 
-## Logistic Regression for Apple Detection
+* [Data Exploration] (introduction-to-data.ipynb)	
 
-## Two-Layer Neural Network for Apple Detection
+* [Logistic Regression for Apple Detection] (logistic_regression-for-apple detection.ipynb)
 
-## Optimized Two-Layer Neural Net
+* [Perceptron for Apple Detection] (perceptron-for-apple detection.ipynb)
 
+* [Basic NN for apple detection](neural-network-for-apple-detection-kaggle.ipynb	)
 
-## Simple Convolutional NN
+* [Simple Convolutional NN] (simple-conv-nn.ipynb)
 
-## Feed-Forward Neural Networks Experiments
+* [Simple 2 Layer NN](simple-two-layer-nn.ipynb)
 
+* [Feed-Forward Neural Networks Experiments](feed-forward-nn-experiments.ipynb)
 
-## Experimenting with Convolutional Neural Networks
+* [Experimenting with Convolutional Neural Networks](conv-nn-experiments.ipynb)
 
-## Custom Net with Max Performence 
+* [Custom Net with Max Performence ] (maximizing-performence-working.ipynb)
 
-## Exploring Failure Modes
+* [Exploring Failure Modes](Exploring_Failure_Modes.ipynb)
