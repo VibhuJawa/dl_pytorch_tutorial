@@ -4,7 +4,7 @@ This repo explores basic pytorch deep models Linear/CNN/FCC on basic doodle clas
 
 * [Introduction to PyTorch](introduction-to-pytorch.ipynb	)
 
-* [Pytroch Ttutorial Example](pytorch-with-examples.ipynb)
+* [Pytroch Tutorial Example](pytorch-with-examples.ipynb)
 
 * [Data Exploration](introduction-to-data.ipynb)	
 
